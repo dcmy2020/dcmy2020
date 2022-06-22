@@ -1,0 +1,22 @@
+{
+  "name": "dcmy2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcmy2020/dcmy2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcmy2020/dcmy2020/issues"
+  },
+  "homepage": "https://github.com/dcmy2020/dcmy2020#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
